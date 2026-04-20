@@ -1,0 +1,9 @@
+# Input images (keep the folder, ignore input files)
+input/*.png
+input/*.jpg
+input/*.jpeg
+
+# Output images (keep the folder, ignore generated files)
+output/*.png
+output/*.jpg
+output/*.jpeg
